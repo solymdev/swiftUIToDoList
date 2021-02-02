@@ -1,2 +1,2 @@
-# swiftUI Todo List
+# SwiftUI Todo List
 SwiftUI Simple Todo List using ObservableObject and toggle.
